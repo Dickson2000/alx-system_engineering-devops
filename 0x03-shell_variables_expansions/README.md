@@ -1,1 +1,1 @@
-This is a shell variable expansion scripts
+This is a shell variable expansion script
